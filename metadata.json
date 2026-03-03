@@ -1,0 +1,5 @@
+{
+  "name": "StudyFlow AI",
+  "description": "Transform your notes into interactive flashcards, quizzes, and practice tests using AI. Boost retention with personalized study materials.",
+  "requestFramePermissions": ["camera"]
+}
